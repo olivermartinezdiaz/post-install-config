@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
@@ -49,7 +49,7 @@ Registration Required: Require registration and login to create tickets
 <img src="https://i.imgur.com/1jKqvTh.png" alt="osTicket logo"/>
 
 <h3>Step 6: Configure Agents (workers)
-Admin Panel -> Agents -> Add New
+Admin Panel -> Agents -> Add New Users
 Jane
 John
 <img src="https://i.imgur.com/wZenxLL.png" alt="osTicket logo"/>
